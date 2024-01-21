@@ -38,23 +38,27 @@
   <img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/YouTube.png" alt="YouTube" width="180"/>
 </a>
 
-## Latest YouTube Videos:
-<!-- YOUTUBE:START -->
-- [Как передать данные именованному маршруту во Flutter](https://www.youtube.com/watch?v=gL8DQKQx6Yo)
-- [Навигация во Flutter с использованием именованных маршрутов](https://www.youtube.com/watch?v=4GMW0yphxN4)
-- [Как передавать данные между экранами во Flutter](https://www.youtube.com/watch?v=7CluiX90w7Q)
-- [Навигация между экранами во Flutter. Navigator push/pop](https://www.youtube.com/watch?v=mY8Ij5nM_Kk)
-- [Как переключить фокус с одного текстового поля на другое во Flutter](https://www.youtube.com/watch?v=yTj5zD9g_RY)
-<!-- YOUTUBE:END -->
+## Основные навыки
+- Системы контроля версий: Git, GitLab, SmartGit, Bitbucket
+- Программы для управления проектами: Jira, Trello
+- Есть опыт разработки онлайн игр
+- При разработке придерживаюсь принципов SOLID, DRY, YAGNI, OOP
+- Знаком с Zenject, Scriptable objects, DOTween, UniRX, TMPro, Cinemachine, Animator и основными паттернами проектирования. Понимаю и использую MVC и MVVM паттерны
+- Есть опыт интеграции ассетов в проект
+- Есть опыт встраивания SDK (GameAnalytics) в проект
+- Знаний английского достаточно для чтения технической документации и составления поискового запроса по требуемой теме
 
-## Languages and Tools:
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+### Дополнительные навыки
+- Знаком с WPF и Windows Forms
+- Знаком с html, css, javascript
+- Занимался анализом данных на Python
+- Проходил курс по C++
+- Изучал реляционные базы данных
+- Освоил Гарвардский онлайн-курс по разработке игр на Lua и фреймворке LOVE2D
+- Знаком с ассемблером
+- Изучал структуры и алгоритмы обработки данных, администрирование и архитектуру информационных систем
+- Изучал Высшую математику, теорию вероятностей, математическую статистику, дискретную математику, функциональный анализ, дифференциальные уравнения, вычислительную математику
+
 
 ## Контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Vasiliy_Enyutin)
