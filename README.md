@@ -21,7 +21,7 @@
 <img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Boozer.png" alt="img">
 
 <a href="https://glore.itch.io/drunske" target="_blank">
-  <img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Itch.pngg" alt="YouTube" width="180"/>
+  <img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Itch.png" alt="Itch" width="180"/>
 </a>
 
 ### Selfie Simulator
