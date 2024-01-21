@@ -17,6 +17,13 @@
   <img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Google%20play.png" alt="Google Play" width="180"/>
 </a>
 
+### Boozer
+<img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Boozer.png" alt="img">
+
+<a href="https://glore.itch.io/drunske" target="_blank">
+  <img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Itch.pngg" alt="YouTube" width="180"/>
+</a>
+
 ### Selfie Simulator
 <img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Selfie%20simulator%20Ava.png" alt="img">
 
