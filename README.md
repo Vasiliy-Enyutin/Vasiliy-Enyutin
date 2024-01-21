@@ -4,16 +4,23 @@
 ## Проекты над которыми я работал
 
 ### Count Masters: 3D Человечки
-<img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Count%20Masters%203D.png" alt="Count Masters img">
+<img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Count%20Masters%203D.png" alt="img">
 
 <a href="https://play.google.com/store/apps/details/Count+Masters:+Stickman+Games?id=freeplay.crowdrun.com&hl=ru" target="_blank">
   <img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Google%20play.png" alt="Google Play" width="180"/>
 </a>
 
 ### Safari Zoo
-<img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Safari%20Zoo.png" alt="Count Masters img">
+<img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Safari%20Zoo.png" alt="img">
 
 <a href="https://play.google.com/store/apps/details?id=com.ttf.safarizoo&hl=en_CA" target="_blank">
+  <img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Google%20play.png" alt="Google Play" width="180"/>
+</a>
+
+### Selfie Simulator
+<img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Selfie%20simulator%20Ava.png" alt="img">
+
+<a href="https://www.youtube.com/watch?v=n83zaATg4rY" target="_blank">
   <img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Google%20play.png" alt="Google Play" width="180"/>
 </a>
 
