@@ -4,7 +4,7 @@
 ## Проекты над которыми я работал
 
 ### [Count Masters: 3D Человечки](https://play.google.com/store/apps/details/Count+Masters:+Stickman+Games?id=freeplay.crowdrun.com&hl=ru)
-<img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Count%20Masters%203D.png" alt="Count Masters img" width="180" height="180">
+<img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Count%20Masters%203D.png" alt="Count Masters img">
 
 <a href="https://play.google.com/store/apps/dev?id=7235693910501061926" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/google_play.png" alt="Google Play" width="180"/>
