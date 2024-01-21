@@ -1,4 +1,4 @@
-[![Header]Василий](https://vk.com/vasiliyenyutin)
+###[Василий](https://vk.com/vasiliyenyutin)
 
 ## Content/Apps/Games Creator
 
