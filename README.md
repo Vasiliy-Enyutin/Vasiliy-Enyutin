@@ -21,7 +21,7 @@
 <img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Selfie%20simulator%20Ava.png" alt="img">
 
 <a href="https://www.youtube.com/watch?v=n83zaATg4rY" target="_blank">
-  <img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Youtube.png" alt="YouTube" width="180"/>
+  <img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/YouTube.png" alt="YouTube" width="180"/>
 </a>
 
 ## Latest YouTube Videos:
