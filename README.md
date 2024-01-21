@@ -25,7 +25,7 @@
 </a>
 
 ### Car Evolution
-<img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Selfie%20simulator%20Ava.png" alt="img">
+<img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Car%20Evolution.png" alt="img">
 
 <a href="https://www.youtube.com/shorts/38ZGJPIOLC0" target="_blank">
   <img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/YouTube.png" alt="YouTube" width="180"/>
