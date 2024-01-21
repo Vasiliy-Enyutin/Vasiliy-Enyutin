@@ -24,6 +24,13 @@
   <img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/YouTube.png" alt="YouTube" width="180"/>
 </a>
 
+### Car Evolution
+<img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Selfie%20simulator%20Ava.png" alt="img">
+
+<a href="https://www.youtube.com/shorts/38ZGJPIOLC0" target="_blank">
+  <img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/YouTube.png" alt="YouTube" width="180"/>
+</a>
+
 ## Latest YouTube Videos:
 <!-- YOUTUBE:START -->
 - [Как передать данные именованному маршруту во Flutter](https://www.youtube.com/watch?v=gL8DQKQx6Yo)
