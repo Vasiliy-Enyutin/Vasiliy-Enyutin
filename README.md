@@ -1,4 +1,5 @@
-### Василий(https://vk.com/vasiliyenyutin)
+### Обо мне
+Меня зовут [Василий](https://vk.com/vasiliyenyutin), я занимаюсь разработкой игр на Unity с 2021 года.
 
 ## Content/Apps/Games Creator
 
