@@ -11,7 +11,7 @@
 </a>
 
 ### Safari Zoo
-<img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Count%20Masters%203D.png" alt="Count Masters img">
+<img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Safari%20Zoo.png" alt="Count Masters img">
 
 <a href="https://play.google.com/store/apps/details?id=com.ttf.safarizoo&hl=en_CA" target="_blank">
   <img src="https://github.com/Vasiliy-Enyutin/Vasiliy-Enyutin/blob/main/Assets/Google%20play.png" alt="Google Play" width="180"/>
